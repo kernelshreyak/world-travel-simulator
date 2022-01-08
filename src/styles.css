@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.leaflet-container {
+  margin-top: 20px;
+  height: 600px;
+  width: 100%;
+}
+
+.leaflet-div-icon {
+  background: transparent;
+  border: none;
+}
+
+.maincontainer {
+  text-align: center;
+}
+.navigation {
+  padding: 10px;
+  margin: 10px;
+  background-color: whitesmoke;
+}
